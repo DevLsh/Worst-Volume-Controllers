@@ -4,6 +4,8 @@ This is a project of implementations of 'The worst volume control UI in the worl
 If you heard about it for the first time, please refer to the post below.\
 https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950
 
+This repository will continue to be updated!
+
 # Demo
 <details>
 <summary>Dice</summary>
